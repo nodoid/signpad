@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="signpad/signpad.csproj">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="signpad/MainActivity.cs" Line="23" Column="75" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.signpad AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.AndroidWearSquare" />
+</Properties>
