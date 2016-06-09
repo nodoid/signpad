@@ -1,7 +1,7 @@
 ﻿<Properties StartupItem="signpad/signpad.csproj">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="signpad/MainActivity.cs">
     <Files>
-      <File FileName="signpad/MainActivity.cs" Line="23" Column="75" />
+      <File FileName="signpad/MainActivity.cs" Line="45" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
